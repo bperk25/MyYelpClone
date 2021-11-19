@@ -15,7 +15,8 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [x] You can search the data base by default of California (would update based on user location)
+* [x] Color scheme changed
+* [X] You can search the data base by default of California (would update based on user location)
 * [X] Add a location using a comma to separate tags
 
 ## Video Walkthrough

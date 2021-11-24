@@ -27,10 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-My biggest challenge with this project was troubleshooting the onChange listener for the editText query.
-I ended up using an editText and button to signal an new query to the Yelp API in the correct format.
-While I would have liked to use a SearchView, I could not get it to work so I hardcoded this search feature
-just using those two separate elements.
+The harderst part of the whole project was configuring my virtual device to work properly with the yelp API.
 
 ## License
 
